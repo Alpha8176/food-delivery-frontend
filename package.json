@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Alpha8176.github.io/Fudly---Food-Delivery-App/",
+  "homepage": "https://Alpha8176.github.io/Fudly-Frontend/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
